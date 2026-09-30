@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 737" role="img" aria-labelledby="title desc">
+<title id="title">Transmineiro Transportes</title>
+<desc id="desc">Logo Transmineiro Transportes com símbolo de estrada em degradê laranja e amarelo.</desc>
+<defs><linearGradient id="road" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#ffd000"/><stop offset=".55" stop-color="#f58220"/><stop offset="1" stop-color="#e52300"/></linearGradient></defs>
+<g fill="url(#road)"><path d="M355 455 C650 350 870 210 1050 42 C900 70 745 135 575 235 C510 274 450 322 355 455Z"/><path d="M1060 455 C1190 350 1300 205 1110 35 C1250 65 1390 125 1435 215 C1475 295 1430 380 1370 455Z"/></g>
+<text x="800" y="610" text-anchor="middle" fill="#fff" font-family="Arial Black, Montserrat, Arial, sans-serif" font-size="158" font-weight="900" font-style="italic" letter-spacing="-7">TRANSMINEIRO</text>
+<text x="800" y="700" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="55" font-weight="700" letter-spacing="25">TRANSPORTES</text>
+</svg>
